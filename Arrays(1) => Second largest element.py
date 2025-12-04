@@ -12,4 +12,3 @@ def slargest(arr):
     if slargest != float('-inf'): 
         return slargest
     return -1
- 
